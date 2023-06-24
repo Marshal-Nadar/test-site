@@ -16,3 +16,14 @@
   color: #183c64;
   font-size: 20px;
 }
+.nav-title {
+  display: inline-block;
+  transition: transform 0.8s ease;
+}
+.nav-title:hover {
+  background-color: #183c64;
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  transform: translateY(-5px);
+}

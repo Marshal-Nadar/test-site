@@ -1,0 +1,18 @@
+.app-logo {
+  width: 10rem;
+  cursor: pointer;
+}
+.header-main {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+  border: 1px solid gainsboro;
+}
+.header-nav-main {
+  display: grid;
+  grid-template-columns: 32% 32% 32%;
+  text-align: center;
+  cursor: pointer;
+  color: #183c64;
+  font-size: 20px;
+}

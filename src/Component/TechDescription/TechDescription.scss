@@ -1,0 +1,16 @@
+.tech-header {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+}
+.tech-img {
+  width: 22rem;
+}
+.tech-container {
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+.tech-aside-main {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}

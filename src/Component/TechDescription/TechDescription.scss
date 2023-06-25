@@ -4,7 +4,7 @@
   font-weight: 600;
 }
 .techstack-img {
-  width: 33rem;
+  width: 44rem;
 }
 .tech-container {
   display: grid;
@@ -12,11 +12,14 @@
 }
 .tech-aside-main {
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 33% 33% 33%;
   /* max-height: 18rem; */
   background: #183c64;
   place-items: center;
 }
 .tech-img {
   width: 8rem;
+  background: #ededed;
+  padding: 10px;
+  border-radius: 8px;
 }

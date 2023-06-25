@@ -11,7 +11,7 @@ import reduxIcon from '../../Assets/Images/redux_icon.svg';
 import pwaIcon from '../../Assets/Images/pwa-icon.svg';
 const TechDescription = () => {
   return (
-    <main>
+    <main className='techstack-main'>
       <header className='tech-header'>TechStackX</header>
       <section className='tech-container'>
         <img src={TechStack} className='techstack-img' alt='' />

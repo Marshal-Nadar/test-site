@@ -12,7 +12,7 @@ import pwaIcon from '../../Assets/Images/pwa-icon.svg';
 const TechDescription = () => {
   return (
     <main className='techstack-main'>
-      <header className='tech-header'>TechStackX</header>
+      <header className='header-text'>TechStackX</header>
       <section className='tech-container'>
         <img src={TechStack} className='techstack-img' alt='' />
         <aside className='tech-aside-main'>

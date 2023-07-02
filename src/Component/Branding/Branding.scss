@@ -3,4 +3,21 @@
   background: #183c64;
   color: #ffff;
   position: relative;
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(7, 47, 146, 1) 4%,
+    rgba(9, 9, 116, 1) 19%,
+    rgba(0, 212, 255, 1) 80%,
+    rgba(9, 9, 121, 1) 100%
+  );
+  background: rgb(24, 60, 100);
+  background: radial-gradient(
+    circle,
+    rgba(24, 60, 100, 1) 0%,
+    rgba(24, 60, 100, 1) 4%,
+    rgba(20, 20, 87, 1) 76%,
+    rgba(24, 60, 100, 1) 96%,
+    rgba(24, 60, 100, 1) 100%
+  );
 }

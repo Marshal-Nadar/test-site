@@ -1,0 +1,19 @@
+.header-text {
+  text-align: center;
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 1.4rem;
+  background-image: linear-gradient(#1e7ee9, #39424c);
+  -webkit-background-clip: text;
+  color: transparent;
+  letter-spacing: 0.2rem;
+  transition: all 0.5s;
+}
+.header-text:hover {
+  transform: skewY(2deg) skewX(15deg) scale(1.1);
+  font-size: 3rem;
+  transform: scale(1.1);
+  letter-spacing: 8px;
+  text-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.2);
+}

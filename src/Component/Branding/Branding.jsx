@@ -4,7 +4,7 @@ import './Branding.scss';
 const Branding = () => {
   return (
     <main className='branding-main'>
-      <section>Branding</section>
+      <section className='branding-text'>Branding</section>
     </main>
   );
 };

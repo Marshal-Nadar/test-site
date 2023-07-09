@@ -8,9 +8,9 @@ const Header = () => {
       <img src={logo} className='app-logo' alt='logo' />
 
       <nav className='header-nav-main'>
-        <span className='nav-title bounce'>Blogs</span>
-        <span className='nav-title bounce'>About</span>
-        <span className='nav-title bounce'>Contact</span>
+        <span className='nav-title'>Blogs</span>
+        <span className='nav-title'>About</span>
+        <span className='nav-title'>Contact</span>
       </nav>
     </header>
   );
